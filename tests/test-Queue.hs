@@ -1,0 +1,3 @@
+import Queue
+
+main = runTests
